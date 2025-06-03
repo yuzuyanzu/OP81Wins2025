@@ -4,7 +4,7 @@ Made for the 2025 F1 race season to track Oscar's wins! Made by someone who just
 I'm literally balding as I type!
 
 ## What does this code do?
--It literally just adds wins. That's it. 
+- It literally just adds wins. That's it. 
 -I won't lie this is pretty bad, but I know some things! Strong emphasis on some.
 
 ## What did I learn?
