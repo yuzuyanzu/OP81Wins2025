@@ -5,7 +5,7 @@ I'm literally balding as I type!
 
 ## What does this code do?
 - It literally just adds wins. That's it. 
--I won't lie this is pretty bad, but I know some things! Strong emphasis on some.
+- I won't lie this is pretty bad, but I know some things! Strong emphasis on some.
 
 ## What did I learn?
 - Git is confusing at first
